@@ -1,0 +1,2 @@
+labwork.S.o: labwork.S
+labwork.S :
