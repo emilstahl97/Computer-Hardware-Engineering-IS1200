@@ -1,8 +1,8 @@
 # Computer-Hardware-Engineering-IS1200
 
-Content and learning outcomes
+## Content and learning outcomes
 
-Course contents *
+### Course contents
 
 The course gives fundamental knowledge of computer organization, both from a hardware and software perspective. The course is organized in six modules that include, among other things, the following concepts and terms:
 
@@ -14,7 +14,7 @@ Memory Hierarchy: instruction cache, data cache, and virtual memory.
 Parallel Processors and Programs: Amdahl’s law, various kinds of parallelism, and multicore.
 Note that module 3 is recommended prerequisites for the course and will not be covered in lectures or laboratory exercises. However, the course material for module 3 will be available on the course web page because the knowledge of this module is prerequisite for module 4.
 
-Intended learning outcomes *
+### Intended learning outcomes
 
 After the course, the student will be able to:
 
@@ -24,4 +24,3 @@ Explain the principles of memory hierarchies, including cache structures.
 Implement low-level programs with input-output, timers, and interrupts.
 Explain the principles of multiprocessor computers and how they can be programmed.
 Explain and describe technical solutions, both orally and in writing.    
-
